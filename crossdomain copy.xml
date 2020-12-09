@@ -1,0 +1,13 @@
+
+<CORSConfiguration>
+ <CORSRule>
+   <AllowedOrigin>http://escg.epizy.com</AllowedOrigin>
+
+   <AllowedMethod>PUT</AllowedMethod>
+   <AllowedMethod>POST</AllowedMethod>
+   <AllowedMethod>DELETE</AllowedMethod>
+
+   <AllowedHeader>*</AllowedHeader>
+ </CORSRule>
+ 
+</CORSConfiguration>
